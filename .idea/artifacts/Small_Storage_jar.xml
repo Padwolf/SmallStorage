@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Small Storage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nometa/Small_Storage_jar</output-path>
+    <root id="archive" name="Small Storage.jar">
+      <element id="module-output" name="Small Storage" />
+    </root>
+  </artifact>
+</component>
